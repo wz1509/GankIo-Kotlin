@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GankIo-Kotlin</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- 共享过度动画 -->
+    <string name="transition_photos">transition_animation_news_photos</string>
+
+    <string name="drawer_gank_io_category">分类</string>
+    <string name="drawer_gank_io_girl">妹纸</string>
+    <string name="drawer_title_more">更多</string>
+    <string name="drawer_about">关于</string>
+    <string name="menu_share">分享</string>
+</resources>

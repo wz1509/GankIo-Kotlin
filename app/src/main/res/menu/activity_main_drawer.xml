@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_gank_io_category"
+            android:icon="@drawable/ic_gank_io"
+            android:checked="true"
+            android:title="@string/drawer_gank_io_category"/>
+        <item
+            android:id="@+id/nav_gank_io_girl"
+            android:icon="@drawable/ic_gank_io_girl"
+            android:title="@string/drawer_gank_io_girl"/>
+    </group>
+
+    <item android:title="@string/drawer_title_more">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/drawer_about"/>
+        </menu>
+    </item>
+
+</menu>
